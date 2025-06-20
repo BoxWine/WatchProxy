@@ -12,7 +12,7 @@ RUN apt-get update && apt-get install -y \
 
 RUN git clone https://github.com/BoxWine/WatchProxyTester .
 
-RUN pip install flask curl-cffi m3u8 gunicorn
+RUN apt install flask curl-cffi m3u8 gunicorn
 
 ENV PYTHONPATH=/app
 
