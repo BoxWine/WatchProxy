@@ -10,7 +10,7 @@ RUN apt-get update && apt-get install -y \
     libssl-dev \
     && rm -rf /var/lib/apt/lists/*
 
-RUN git clone https://github.com/BoxWine/WatchProxyTester .
+RUN git clone https://github.com/BoxWine/WatchProxy .
 
 RUN apt install flask curl-cffi m3u8 gunicorn
 
