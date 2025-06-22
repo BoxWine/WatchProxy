@@ -1,4 +1,4 @@
-===========================================================================<br><br>
+=============<br><br>
 <b><u>Self Hosting Tested & Working on Ubuntu20</u></b><br>Note: The playlists do not download when your are self hosting you will need to use the urls from the quick setup guide (dadurls.netlify.app)<br>
 
 1, Clone the repo:<br>
@@ -20,4 +20,4 @@ snap install docker<br><br>
 See Forum, Join Up! Plenty of goodies will be offered - https://forum.tfms.xyz<br>
 Join our discord: https://discord.gg/F3MzfJAffG (#iptv)<br><br>
 
-===========================================================================<br>
+=============<br>
